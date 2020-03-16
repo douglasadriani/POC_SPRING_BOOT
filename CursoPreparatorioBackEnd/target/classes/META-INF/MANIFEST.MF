@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: douglas
+Build-Jdk: 11.0.6
+Implementation-Title: CursoPreparatorioBackEnd
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: CursoPreparatorioBackEnd
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/CursoPreparatorioBackEnd
+Created-By: Maven Integration for Eclipse
+
